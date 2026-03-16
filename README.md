@@ -1,5 +1,9 @@
 # Pedro Bonfá
 
+
+**`Software Developer`**
+
+
 Olá, meu nome é Pedro Bonfá. Tenho 21 anos e curso Sistemas de Informação na Universidade Federal de Juiz de Fora.
 
 ### 🤖 Linguagens e Tecnologias
@@ -141,20 +145,3 @@ Olá, meu nome é Pedro Bonfá. Tenho 21 anos e curso Sistemas de Informação n
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
 </img>
-
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=0pedrobonfa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
-  />
-
-</p>
